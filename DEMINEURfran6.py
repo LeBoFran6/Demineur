@@ -1,3 +1,6 @@
+# GD1.1
+# FRANCISCO DE CARVALHO PEREIRA
+
 import random # nous permetras d'utiliser de l'aleatoire
 import time # permettra d'afficher le temps
 
